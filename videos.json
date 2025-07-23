@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Big Buck Bunny",
+        "description": "A fun animated cartoon from Blender.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "cardImageUrl": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+        "category": "Cartoons"
+    },
+    {
+        "title": "Sintel",
+        "description": "A short open movie about a girl and a dragon.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+        "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sintel_poster.jpg",
+        "category": "Fantasy"
+    },
+    {
+        "title": "Tears of Steel",
+        "description": "A sci-fi short film made with Blender.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+        "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Tears_of_Steel_poster.jpg",
+        "category": "Sci-Fi"
+    },
+    {
+        "title": "For Bigger Blazes",
+        "description": "Test video with fire-related scenes.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+        "category": "Action"
+    },
+    {
+        "title": "For Bigger Escape",
+        "description": "Escape adventure demo for Chromecast.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
+        "category": "Adventure"
+    },
+    {
+        "title": "For Bigger Fun",
+        "description": "A fun clip demo video.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
+        "category": "Comedy"
+    },
+    {
+        "title": "For Bigger Joyrides",
+        "description": "Demo of joyride clips with cars.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+        "category": "Cars"
+    },
+    {
+        "title": "For Bigger Meltdowns",
+        "description": "Meltdown demo video for testing Chromecast.",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
+        "category": "Drama"
+    }
+]

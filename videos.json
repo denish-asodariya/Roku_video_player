@@ -1,58 +1,102 @@
 [
-    {
-        "title": "Big Buck Bunny",
-        "description": "A fun animated cartoon from Blender.",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "cardImageUrl": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-        "category": "Cartoons"
-    },
-    {
-        "title": "Sintel",
-        "description": "A short open movie about a girl and a dragon.",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-        "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sintel_poster.jpg",
-        "category": "Fantasy"
-    },
-    {
-        "title": "Tears of Steel",
-        "description": "A sci-fi short film made with Blender.",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-        "cardImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Tears_of_Steel_poster.jpg",
-        "category": "Sci-Fi"
-    },
-    {
-        "title": "For Bigger Blazes",
-        "description": "Test video with fire-related scenes.",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
-        "category": "Action"
-    },
-    {
-        "title": "For Bigger Escape",
-        "description": "Escape adventure demo for Chromecast.",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
-        "category": "Adventure"
-    },
-    {
-        "title": "For Bigger Fun",
-        "description": "A fun clip demo video.",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
-        "category": "Comedy"
-    },
-    {
-        "title": "For Bigger Joyrides",
-        "description": "Demo of joyride clips with cars.",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-        "category": "Cars"
-    },
-    {
-        "title": "For Bigger Meltdowns",
-        "description": "Meltdown demo video for testing Chromecast.",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-        "cardImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
-        "category": "Drama"
-    }
+  {
+    "id": 1,
+    "title": "Peppa Pig - Bubbles",
+    "description": "Peppa and George play with bubbles in the garden.",
+    "backgroundImageUrl": "https://i.imgur.com/FZy1n3f.jpg",
+    "cardImageUrl": "https://i.imgur.com/DOjOYOJ.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Cartoon Studio",
+    "category": "Cartoons"
+  },
+  {
+    "id": 2,
+    "title": "Counting 1 to 10",
+    "description": "Fun counting video for toddlers.",
+    "backgroundImageUrl": "https://i.imgur.com/HLq7P3h.jpg",
+    "cardImageUrl": "https://i.imgur.com/l7xRJyb.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Kids Learning",
+    "category": "Education"
+  },
+  {
+    "id": 3,
+    "title": "Twinkle Twinkle Little Star",
+    "description": "Classic lullaby with animations.",
+    "backgroundImageUrl": "https://i.imgur.com/7OB5Yzn.jpg",
+    "cardImageUrl": "https://i.imgur.com/B1oVyzX.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Nursery Rhymes",
+    "category": "Music"
+  },
+  {
+    "id": 4,
+    "title": "The Lion and the Mouse",
+    "description": "A moral story for kids.",
+    "backgroundImageUrl": "https://i.imgur.com/c6keROe.jpg",
+    "cardImageUrl": "https://i.imgur.com/8y0fg4g.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Story Time",
+    "category": "Stories"
+  },
+  {
+    "id": 5,
+    "title": "Alphabet Song",
+    "description": "Sing along the ABC song.",
+    "backgroundImageUrl": "https://i.imgur.com/r8ncvLr.jpg",
+    "cardImageUrl": "https://i.imgur.com/0xeVyxT.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Sing & Learn",
+    "category": "Education"
+  },
+  {
+    "id": 6,
+    "title": "Baby Shark",
+    "description": "Dance to the Baby Shark song!",
+    "backgroundImageUrl": "https://i.imgur.com/XMeLvEk.jpg",
+    "cardImageUrl": "https://i.imgur.com/IZ1ezRo.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Pinkfong",
+    "category": "Music"
+  },
+  {
+    "id": 7,
+    "title": "Cinderella",
+    "description": "Classic fairytale animation.",
+    "backgroundImageUrl": "https://i.imgur.com/K6ArB3F.jpg",
+    "cardImageUrl": "https://i.imgur.com/7dd4OeR.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Fairy Tales Inc.",
+    "category": "Stories"
+  },
+  {
+    "id": 8,
+    "title": "Colors and Shapes",
+    "description": "Learn about basic shapes and colors.",
+    "backgroundImageUrl": "https://i.imgur.com/9F8zjva.jpg",
+    "cardImageUrl": "https://i.imgur.com/yQ3bPMk.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Bright Minds",
+    "category": "Education"
+  },
+  {
+    "id": 9,
+    "title": "Dora the Explorer",
+    "description": "Join Dora on an adventurous journey.",
+    "backgroundImageUrl": "https://i.imgur.com/kP7WQUo.jpg",
+    "cardImageUrl": "https://i.imgur.com/4k0hvLV.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Nick Jr.",
+    "category": "Cartoons"
+  },
+  {
+    "id": 10,
+    "title": "Jack and Jill",
+    "description": "Nursery rhyme with playful animation.",
+    "backgroundImageUrl": "https://i.imgur.com/kqBgfrN.jpg",
+    "cardImageUrl": "https://i.imgur.com/OyTJrMN.jpg",
+    "videoUrl": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+    "studio": "Nursery Rhymes",
+    "category": "Music"
+  }
 ]

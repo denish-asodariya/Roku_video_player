@@ -1,0 +1,3982 @@
+{
+  "providerName": "Andrew Kirby",
+  "lastUpdated": "2025-08-12T16:22:35-04:00",
+  "language": "en",
+  "movies": [
+    {
+      "id": "722403300",
+      "title": "When Did Jesus Die",
+      "shortDescription": "Another exciting video for you to watch. Why don't you start watching to see what it's all about?",
+      "thumbnail": "https://i.vimeocdn.com/video/1454854155-429729ceb5800353fc09e79f1a2ba73f0f785952316fb646f351eb8ac767dd07-d_800x450?region=us",
+      "releaseDate": "2022-06-20T22:43:31-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-09-09T15:36:36-04:00",
+        "duration": 1057,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/722403300.m3u8?s=a7021abd5941ef6cd0d5c438aab4df65cb1a583d",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "722416337",
+      "title": "Timeline of Asian History",
+      "shortDescription": "Another exciting video for you to watch. Why don't you start watching to see what it's all about?",
+      "thumbnail": "https://i.vimeocdn.com/video/1454880817-8d3fd841709d7b0aac9911028b62ca0bf0478bf066673bdf888334d5d43496a6-d_800x450?region=us",
+      "releaseDate": "2022-06-20T23:58:27-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-09-09T15:36:36-04:00",
+        "duration": 1227,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/722416337.m3u8?s=022ecaba60af0411815a95964e34eaf1689fb52a",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "722441993",
+      "title": "NATO Command Structure 2022",
+      "shortDescription": "Another exciting video for you to watch. Why don't you start watching to see what it's all about?",
+      "thumbnail": "https://i.vimeocdn.com/video/1454933194-dd08b685710d0d28865c09cd49a41d83452e272664fae9dee09251596fb9f130-d_800x450?region=us",
+      "releaseDate": "2022-06-21T02:25:08-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-09-09T15:36:37-04:00",
+        "duration": 654,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/722441993.m3u8?s=b7d260fbedc690da22cb9d07cd34645a38049773",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "717098967",
+      "title": "Native Americans of North America",
+      "shortDescription": "Another exciting video for you to watch. Why don't you start watching to see what it's all about?",
+      "thumbnail": "https://i.vimeocdn.com/video/1444890685-2571c798541d97dce96d690965a57929f2d2009c567efd0c4647a8853be009e3-d_800x450?region=us",
+      "releaseDate": "2022-06-04T12:38:22-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-09-09T15:36:37-04:00",
+        "duration": 474,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/717098967.m3u8?s=e8263142900e336c83cfb5d60cdd7846b75754ef",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "722793324",
+      "title": "Mughal Emperors Family Tree",
+      "shortDescription": "Another exciting video for you to watch. Why don't you start watching to see what it's all about?",
+      "thumbnail": "https://i.vimeocdn.com/video/1455527489-ae0ddf8ead54f1e2d9d45a8f8b8ce4cf8fe506464c7e87fcfc4f93d5d9988fbb-d_800x450?region=us",
+      "releaseDate": "2022-06-21T22:21:09-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-09-09T15:36:37-04:00",
+        "duration": 1015,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/722793324.m3u8?s=dfd403610fd20680763b67bd5af3e88b92e82349",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "722751967",
+      "title": "Inca Emperors Family Tree",
+      "shortDescription": "Another exciting video for you to watch. Why don't you start watching to see what it's all about?",
+      "thumbnail": "https://i.vimeocdn.com/video/1455447568-c57302548b9903574be1f54f4c322d0e06671634dd57389133ef97cfb8c4ddb7-d_800x450?region=us",
+      "releaseDate": "2022-06-21T18:54:03-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-09-09T15:36:37-04:00",
+        "duration": 973,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/722751967.m3u8?s=f66cee3cb6a17085e541c33dd4f18ee5ca11f960",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777929887",
+      "title": "The Sumerians - Fall of the First Cities",
+      "shortDescription": "The Sumerians - Fall of the First Cities",
+      "thumbnail": "https://i.vimeocdn.com/video/1561262568-c6b843e71f1d23c8db668c2640be7a83f431212ca26f96026c12f4aeb893b786-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:36:33-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:44-05:00",
+        "duration": 8868,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777929887.m3u8?s=170152098f99317db9cebecceb795cb0ace9957e",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777930237",
+      "title": "The Assyrians - Empire of Iron",
+      "shortDescription": "The Assyrians - Empire of Iron",
+      "thumbnail": "https://i.vimeocdn.com/video/1561263255-38b075ffd034b80300362168e69e56b026b53f0fff130a1cb50afa23b5b2f35a-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:38:44-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:44-05:00",
+        "duration": 11124,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777930237.m3u8?s=3d1a488350fc84971c969448bddbce1af6089b6d",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777930473",
+      "title": "The Bronze Age Collapse - Mediterranean Apocalypse",
+      "shortDescription": "The Bronze Age Collapse - Mediterranean Apocalypse",
+      "thumbnail": "https://i.vimeocdn.com/video/1561263566-2925ddbffb93b93bd1cd94e7ff61282c2048abc0bb0a749857913d75c2c01c4c-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:40:01-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:44-05:00",
+        "duration": 3824,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777930473.m3u8?s=b47f39eb5886872d91d9233034bdda34fe16af1a",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777930618",
+      "title": "The Han Dynasty - The First Empire in Flames",
+      "shortDescription": "The Han Dynasty - The First Empire in Flames",
+      "thumbnail": "https://i.vimeocdn.com/video/1561264261-04f24186a84232cdc2a8499d578fcca3e4b5f4ef4ad269e0467813dd9ac5764f-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:40:39-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:44-05:00",
+        "duration": 10317,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777930618.m3u8?s=503307404df1f359320d74e174f4e815b3946b5a",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777931216",
+      "title": "Bagan - City of Temples",
+      "shortDescription": "Bagan - City of Temples",
+      "thumbnail": "https://i.vimeocdn.com/video/1561265095-9344a7dd62356c6bf4b3fcc3d432a2ef0191cba8abc55a91ab1cae50a9907fbe-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:43:57-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:45-05:00",
+        "duration": 7625,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777931216.m3u8?s=4206561d2fff423fde96d70f92d1aa204b89ee57",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777931169",
+      "title": "The Mayans - Ruins Among the Trees",
+      "shortDescription": "The Mayans - Ruins Among the Trees",
+      "thumbnail": "https://i.vimeocdn.com/video/1561264714-8da8d2004648ca2e6fce1211e11811617b0652b7d5152c0cebc6a0ccd0512d71-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:43:39-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:45-05:00",
+        "duration": 4117,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777931169.m3u8?s=0bb37a5fd194e9a0a98a4ae389378c070344a445",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777930979",
+      "title": "The Nabataeans- The Final Days Of Petra",
+      "shortDescription": "The Nabataeans- The Final Days Of Petra",
+      "thumbnail": "https://i.vimeocdn.com/video/1561264507-1216d5ce69994c6a892dbd0cf640292b4fdbfa488f92faefe5841b831e5a7a72-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:42:40-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:45-05:00",
+        "duration": 7294,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777930979.m3u8?s=32dabd6b85c39bda63f8dfcbb7ca00d426fc5c23",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777931106",
+      "title": "Roman Britain- The Work of Giants Crumbled",
+      "shortDescription": "Roman Britain- The Work of Giants Crumbled",
+      "thumbnail": "https://i.vimeocdn.com/video/1561264620-6b534a149764fc2758b1a9407d3ff2b2e76a133de7564ec269e7ca2f0fa9ef1b-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:43:22-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:45-05:00",
+        "duration": 3809,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777931106.m3u8?s=f7b351b5df19b7e0035d42473c82b0f148a14fee",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777932895",
+      "title": "The Greenland Vikings - Land of the Midnight Sun",
+      "shortDescription": "The Greenland Vikings - Land of the Midnight Sun",
+      "thumbnail": "https://i.vimeocdn.com/video/1561268346-ef1c25fa5f3ce22600c78b6b3b79231cf8e7f4be90f8cc831f9c445488a1dd4a-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:53:21-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:46-05:00",
+        "duration": 4922,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777932895.m3u8?s=1f8787dd6e533ca6ebaf52f7966a74410260c07f",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777932265",
+      "title": "The Aztecs - A Clash of Worlds (Part 1 of 2)",
+      "shortDescription": "The Aztecs - A Clash of Worlds (Part 1 of 2)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561266905-2cfbd37335ff9a7041fd570d57ac55b059e802cd09326c4d0dd00f2c9e162ed2-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:49:40-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:46-05:00",
+        "duration": 6267,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777932265.m3u8?s=44bc2dd05c7f676c93d1655dd582e85c167da74c",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777932818",
+      "title": "The Songhai Empire - Africa's Age of Gold",
+      "shortDescription": "The Songhai Empire - Africa's Age of Gold",
+      "thumbnail": "https://i.vimeocdn.com/video/1561268164-5f1816ff3fae27d4bff88656123d952a365574a83f53669771689efb21273380-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:52:51-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:46-05:00",
+        "duration": 8168,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777932818.m3u8?s=72435a1c0f75c83208d7dcd2ba6e7cefaa771dcf",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777931335",
+      "title": "The Khmer Empire - Fall of the God Kings",
+      "shortDescription": "The Khmer Empire - Fall of the God Kings",
+      "thumbnail": "https://i.vimeocdn.com/video/1561266955-fb03b0c57486fd6f05bff90c6eaeaabecd6ccc2a6355431770f6d8944b4de39a-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:44:44-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:46-05:00",
+        "duration": 5887,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777931335.m3u8?s=2391e8d82ed51662863b934973f1ff88dddcc62d",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777932325",
+      "title": "The Aztecs - A Clash of Worlds (Part 2 of 2)",
+      "shortDescription": "The Aztecs - A Clash of Worlds (Part 2 of 2)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561267209-1c0190f173e6b961a6f571f784544adef561a81f3519ceb8cb5cb3f7cf54a869-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:49:56-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:47-05:00",
+        "duration": 8899,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777932325.m3u8?s=bd20a3a9aed2f170ed3a53483dc5a555383f02e5",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777873875",
+      "title": "Archaeology and Linguistic History of Hokkaido Ainu (2019-09-13) Gary Crawford (Toronto)",
+      "shortDescription": "Archaeology and Linguistic History of Hokkaido Ainu (2019-09-13) Gary Crawford (Toronto)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561135139-e84b89c17fe81501309d9c4e82de5eaa1659f9efebd17b15851562e58ccc7db7-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:16:28-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:48-05:00",
+        "duration": 4171,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777873875.m3u8?s=6f18a86f1a81d2b093dc61c676b84f1786eafaa8",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777932560",
+      "title": "Easter Island - Where Giants Walked",
+      "shortDescription": "Easter Island - Where Giants Walked",
+      "thumbnail": "https://i.vimeocdn.com/video/1561267558-eb8a9aa87ce719d1975ea913373a9ad0420bc72b9039086ccdae1d09462dac82-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:51:20-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:48-05:00",
+        "duration": 6192,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777932560.m3u8?s=af8172a0e7dadf5c85f280dd65d1ced073ab9c82",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777874586",
+      "title": "A Brief History of International Trade",
+      "shortDescription": "A Brief History of International Trade",
+      "thumbnail": "https://i.vimeocdn.com/video/1700928558-ba49e54992c3d80a6261d39ad95e4a41e81a9f51b5611fc38397366be0a5405d-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:20:16-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:50-05:00",
+        "duration": 2635,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777874586.m3u8?s=6d1a97a2f44aa9b181f1a49e651b2727d376db56",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777875923",
+      "title": "Ancient Super-Civilization Found In Afrika",
+      "shortDescription": "Ancient Super-Civilization Found In Afrika",
+      "thumbnail": "https://i.vimeocdn.com/video/1700928456-70951941dc37b2b039f25e30bbf28debf73753ce1bb34543ba483c266dd5dbbb-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:27:52-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:51-05:00",
+        "duration": 786,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777875923.m3u8?s=262d7b2e902184cdacdf9fac8f12f75a321d190e",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777876071",
+      "title": "Are Native Americans From China Or....",
+      "shortDescription": "Are Native Americans From China Or....",
+      "thumbnail": "https://i.vimeocdn.com/video/1561138807-1459f5e65b725bc162a5f3a314b6154dcfb182761470ad87762d3d5c466fd9a6-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:28:43-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:52-05:00",
+        "duration": 732,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777876071.m3u8?s=918a97281c72ec39ac13e674bab1c4fb5fa8365c",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777875563",
+      "title": "A Susquehanna Timeline (full version)",
+      "shortDescription": "A Susquehanna Timeline (full version)",
+      "thumbnail": "https://i.vimeocdn.com/video/1700928362-05fb9ecc34d0a896f46e2d041e7cea00e2f9822d642bc15c98f582862036aee9-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:25:49-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:53-05:00",
+        "duration": 633,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777875563.m3u8?s=8c0312808a27bef7b293570d118412f5d086e815",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777934994",
+      "title": "Brazilian Slavery and Abolition_ The Struggle for Truly Black Citizenship",
+      "shortDescription": "Brazilian Slavery and Abolition_ The Struggle for Truly Black Citizenship",
+      "thumbnail": "https://i.vimeocdn.com/video/1561273033-5a31eb141696564a41db5039376c7342bf33bdf149b4e03e9e1ee9cb2609bd7b-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:06:29-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:53-05:00",
+        "duration": 532,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777934994.m3u8?s=961ab6ea2c9c911e4880553b9830c064a2948576",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777935028",
+      "title": "Casta Paintings",
+      "shortDescription": "Casta Paintings",
+      "thumbnail": "https://i.vimeocdn.com/video/1561273123-ec07a367b22c4e7815035a7a5908a1fca3278e182300143644f75d303d3e9b01-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:06:44-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:54-05:00",
+        "duration": 609,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777935028.m3u8?s=73dc8f926b2d8da34d7d228be4db742343a2fa02",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777888474",
+      "title": "Cities of  Medieval Africa",
+      "shortDescription": "Cities of  Medieval Africa",
+      "thumbnail": "https://i.vimeocdn.com/video/1561165634-c110d579886e8eed48e81f0bd552290d1fd6347a6cc40e600ea405d6fbe89784-d_800x450?region=us",
+      "releaseDate": "2022-12-04T15:34:55-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:39:57-05:00",
+        "duration": 523,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777888474.m3u8?s=beed4f5be9c2f0c2a97662ad7bdcebaa5619f9e0",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777936177",
+      "title": "Colonialism",
+      "shortDescription": "Colonialism",
+      "thumbnail": "https://i.vimeocdn.com/video/1561276505-8f5603334bb13faad86069b9f44ed881a3108e2a1ac6ee30a30de10966ca5dad-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:14:04-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:00-05:00",
+        "duration": 522,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777936177.m3u8?s=ef0b0297430952c15ba3eae66a7cf085d0a9f1d7",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777936249",
+      "title": "Commerce, Coercion, and America's Empire (LAST100 wk 9)",
+      "shortDescription": "Commerce, Coercion, and America's Empire (LAST100 wk 9)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561277393-d65f8a49c703a61a8f1d3662796eb94c853f367f085f711ae27eaac0b5d90323-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:14:30-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:01-05:00",
+        "duration": 1163,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777936249.m3u8?s=04b62e5b10eaf3d58a9ce17cbc7b6fc55899fb18",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777936697",
+      "title": "Commerce, Coercion, and America's Empire II",
+      "shortDescription": "Commerce, Coercion, and America's Empire II",
+      "thumbnail": "https://i.vimeocdn.com/video/1561277717-d62ea60c284b829ca1f57af4a6dd749a5d689df8daa17068aa5deac87056b131-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:16:58-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:01-05:00",
+        "duration": 849,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777936697.m3u8?s=57fc6d1ea958a32b664d88bec7cb2daf8992dfd2",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777936899",
+      "title": "Commerce, Coercion, and America's Empire III",
+      "shortDescription": "Commerce, Coercion, and America's Empire III",
+      "thumbnail": "https://i.vimeocdn.com/video/1561278934-d3bf2fe34f92a84c71694a03257c3d638db3465eb702d798bc20fa0516900595-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:17:46-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:02-05:00",
+        "duration": 549,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777936899.m3u8?s=00812b01d5d4822036fae38aba0e35d83c343817",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777937652",
+      "title": "Dictatorship and Resistance (LAST100 wk 12)",
+      "shortDescription": "Dictatorship and Resistance (LAST100 wk 12)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561279904-b346ac2e70d272f43c373c2b1bf51c3cd6ea4c8f4c7af12704429208378bb5c9-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:21:50-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:03-05:00",
+        "duration": 711,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777937652.m3u8?s=59f180e1e8fabd0d1f806af0486d8ee15e64fcfa",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777887904",
+      "title": "C Schelbush African history – inferences from modern and ancient DNA",
+      "shortDescription": "C Schelbush African history – inferences from modern and ancient DNA",
+      "thumbnail": "https://i.vimeocdn.com/video/1700928244-e52ba34c7d6dacc2dc89f3989fce1bf01893979cca5a7f1f1955447dc8a0cd72-d_800x450?region=us",
+      "releaseDate": "2022-12-04T15:31:28-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:03-05:00",
+        "duration": 2849,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777887904.m3u8?s=0d8a1fa7ae318764823be7aa3c37d8c57bfd8cf0",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777938685",
+      "title": "Femicide in Latin America",
+      "shortDescription": "Femicide in Latin America",
+      "thumbnail": "https://i.vimeocdn.com/video/1561281678-56d3c6cd2fd5025a52cda651b506406ea5f3cdfd050f5825f6226762eb7b5110-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:28:08-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:04-05:00",
+        "duration": 521,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777938685.m3u8?s=941633d3881500ee294052d47dbeffc98ead79a3",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777938806",
+      "title": "Folktales and Legends",
+      "shortDescription": "Folktales and Legends",
+      "thumbnail": "https://i.vimeocdn.com/video/1561281832-82cb1f356bc99bc2261116e10c2786deb075adb3cbdb8700ed0b63b624b1cdd5-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:28:54-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:05-05:00",
+        "duration": 1808,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777938806.m3u8?s=0cc00fc98bc3d3d4c84d3be4ad34e984b4e2453a",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777868937",
+      "title": "History Channel Biography of Muhammad The Prophet",
+      "shortDescription": "History Channel Biography of Muhammad The Prophet",
+      "thumbnail": "https://i.vimeocdn.com/video/1561123043-42153eb52a353fb6b697707d092a4d08105c567c989e2905b69ac59cbdf247a9-d_800x450?region=us",
+      "releaseDate": "2022-12-04T13:49:17-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:06-05:00",
+        "duration": 2562,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777868937.m3u8?s=701510521d05eb9cc445114774c8b48de8ba6137",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777868711",
+      "title": "Hannes A. Fellner (Vienna) Linguistic Contact between Indo-European and Old Chinese",
+      "shortDescription": "Hannes A. Fellner (Vienna) Linguistic Contact between Indo-European and Old Chinese",
+      "thumbnail": "https://i.vimeocdn.com/video/1700928141-7adb6cc19c0887d5fdf023d6c1f82fae21103927ae6a57c3d5dbe49e23a2be9a-d_800x450?region=us",
+      "releaseDate": "2022-12-04T13:47:51-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:07-05:00",
+        "duration": 1743,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777868711.m3u8?s=b0d039c16af656d7de364456f04aed374c6de886",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777869084",
+      "title": "History of Africa from the 16th to the 20th Century",
+      "shortDescription": "History of Africa from the 16th to the 20th Century",
+      "thumbnail": "https://i.vimeocdn.com/video/1561127685-35e26e0b344b115f80241e1fc9ceb7b6660023cbefa874729346958d35ab13a6-d_800x450?region=us",
+      "releaseDate": "2022-12-04T13:50:20-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:08-05:00",
+        "duration": 13142,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777869084.m3u8?s=981498a86e3080c0c869cfa0999daa8c10a6aa33",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777871440",
+      "title": "History of slavery in the Muslim world   Wikipedia audio article",
+      "shortDescription": "History of slavery in the Muslim world   Wikipedia audio article",
+      "thumbnail": "https://i.vimeocdn.com/video/1561128020-2fb3a842bc3cff6f042b765236fb6278e1a9f1e2a99cec7b56d789da59f16aef-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:03:19-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:08-05:00",
+        "duration": 3305,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777871440.m3u8?s=3ab6f1e1b9e57b0050beef6b622f982908b4b1ad",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777871360",
+      "title": "History of Japan   Burakumin and Social Outcasts",
+      "shortDescription": "History of Japan   Burakumin and Social Outcasts",
+      "thumbnail": "https://i.vimeocdn.com/video/1561127768-eac8727afee6c4e906b4e145e3ebc8462cb3259ac22a5e6c67d81b171ede6034-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:02:56-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:09-05:00",
+        "duration": 1597,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777871360.m3u8?s=065b9042dbd4fc97a58001446a18622490288f33",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777871021",
+      "title": "History of China   Wikipedia audio article",
+      "shortDescription": "History of China   Wikipedia audio article",
+      "thumbnail": "https://i.vimeocdn.com/video/1561127523-8a81cb5da42d9b2fb2180d7c18ebe1d75f2afd9d85d9d3bb9f78a9da97417b37-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:01:16-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:10-05:00",
+        "duration": 4643,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777871021.m3u8?s=a29790a27544303a32f733e57bb237efb768e70d",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777870893",
+      "title": "History of Cameroon",
+      "shortDescription": "History of Cameroon",
+      "thumbnail": "https://i.vimeocdn.com/video/1561126996-81022144d77875693c1bde1085bd733784ecb083fba8707568e6eb20589d6ad5-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:00:32-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:11-05:00",
+        "duration": 726,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777870893.m3u8?s=af3f32dfbf8f79e11a4dc27277aefffe631a1c82",
+            "quality": "UHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777871595",
+      "title": "History of The Five Oldest Kingdoms VS Israel   Intermediate Discipleship #35   Dr. Gene Kim",
+      "shortDescription": "History of The Five Oldest Kingdoms VS Israel   Intermediate Discipleship #35   Dr. Gene Kim",
+      "thumbnail": "https://i.vimeocdn.com/video/1561128465-8bc1802d3f309863b3b4d7a6c5287e21cbf72a1dd050aaf9695dca9a6730fdcd-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:04:07-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:12-05:00",
+        "duration": 3728,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777871595.m3u8?s=f1e7968388a61722b0aa30f77002f9e5ba71b949",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777871782",
+      "title": "How Africans Built The Great Zimbabwe Empire��",
+      "shortDescription": "How Africans Built The Great Zimbabwe Empire��",
+      "thumbnail": "https://i.vimeocdn.com/video/1561132324-6c6876f335c69587c6512508dd947a2203e1767c83c6910a55c0e71ca93432fa-d_800x450?region=us",
+      "releaseDate": "2022-12-04T14:05:10-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:13-05:00",
+        "duration": 2192,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777871782.m3u8?s=4ff3e278c698a13d3d264e777a2780a549b9f7ae",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777923263",
+      "title": "How Europeans Colonized Africa",
+      "shortDescription": "How Europeans Colonized Africa",
+      "thumbnail": "https://i.vimeocdn.com/video/1561245968-fee363e9724b552f9cae9db54f9bb952dea14f6ae2d45d83118b261391d4ed23-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:58:20-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:13-05:00",
+        "duration": 206,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777923263.m3u8?s=0b1eb7c4a0f1477577aa30a8c9eb59c06e54c8cb",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777923328",
+      "title": "How Europeans Enslave Africans",
+      "shortDescription": "How Europeans Enslave Africans",
+      "thumbnail": "https://i.vimeocdn.com/video/1561247608-282e793695c8764de192eb02877196d73cb8b530bb732e1e1c4ce705071a6d8e-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:58:44-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:14-05:00",
+        "duration": 1432,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777923328.m3u8?s=4c74c8b0881cd00667311fe458258796e87cf4f7",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777960280",
+      "title": "Independence in Latin America",
+      "shortDescription": "Independence in Latin America",
+      "thumbnail": "https://i.vimeocdn.com/video/1561329568-da9cbf748d2ec28b3b2e2e9771895aeb8b4342b50e68e77eb9f5cc0c262ae733-d_800x450?region=us",
+      "releaseDate": "2022-12-04T22:28:06-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:15-05:00",
+        "duration": 476,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777960280.m3u8?s=84624920752d30267cee12fc69d79c9e64f7a8e6",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777960884",
+      "title": "Independence Narratives, Past and Present (LAST100 wk 4)",
+      "shortDescription": "Independence Narratives, Past and Present (LAST100 wk 4)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561330734-efe3f7ec656b7e9a7ee9b0433f336757091f82e489019735dc7f792829ca1233-d_800x450?region=us",
+      "releaseDate": "2022-12-04T22:31:42-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:17-05:00",
+        "duration": 1205,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777960884.m3u8?s=5a323b7d783eae1c1ab6f27c95070fda4e1ed363",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777924143",
+      "title": "Interactions Between Europeans and Native Americans",
+      "shortDescription": "Interactions Between Europeans and Native Americans",
+      "thumbnail": "https://i.vimeocdn.com/video/1561247978-dd676bf0f27435ecd4fc47e6a4e9bbbf3c992d849d793db5fac205645b9462c8-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:03:51-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:18-05:00",
+        "duration": 1161,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777924143.m3u8?s=77a8b11250e1f3516b61715575a331c67e6a569a",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777960474",
+      "title": "Independence Narratives, Past and Present (LAST100 wk 4) [old version]",
+      "shortDescription": "Independence Narratives, Past and Present (LAST100 wk 4) [old version]",
+      "thumbnail": "https://i.vimeocdn.com/video/1561330598-b99211a3c227afbf4a9f29948848e12605d839178781e5d917c3be004a147e88-d_800x450?region=us",
+      "releaseDate": "2022-12-04T22:29:12-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:19-05:00",
+        "duration": 1205,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777960474.m3u8?s=ff4bb6b34004e5f59bc1d652f60c3e9ee23ff444",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777924235",
+      "title": "Japan-  History of Japan's Ancient and Modern Empire -Full Documentary",
+      "shortDescription": "Japan-  History of Japan's Ancient and Modern Empire -Full Documentary",
+      "thumbnail": "https://i.vimeocdn.com/video/1561249268-eb838228dad00e5a20035ddd4bd35f69621266e572668edef4a0c18917eef7d1-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:04:19-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:20-05:00",
+        "duration": 9765,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777924235.m3u8?s=7d8720de0092dd3e68e818d36250d4fe6749faf5",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777891925",
+      "title": "Largest Ancient Ruin On Earth Found Hidden In Peru",
+      "shortDescription": "Largest Ancient Ruin On Earth Found Hidden In Peru",
+      "thumbnail": "https://i.vimeocdn.com/video/1700927997-ed112bd73f86a9393703ddbebba287821fc0202b0a20269e53855743f725308d-d_800x450?region=us",
+      "releaseDate": "2022-12-04T15:54:59-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:23-05:00",
+        "duration": 330,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777891925.m3u8?s=c2147f001adb67dcacc98e918cd7099293b9a2b9",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777924658",
+      "title": "Japanese JuJutsu  It's beginning and evolution",
+      "shortDescription": "Japanese JuJutsu  It's beginning and evolution",
+      "thumbnail": "https://i.vimeocdn.com/video/1700928060-3803142a91a7042c00dbfbfe8baee1114099df41a8bea119c46d4fe2831425af-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:07:02-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:21-05:00",
+        "duration": 615,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777924658.m3u8?s=5594e7ea581f836d83f523e36eaf5802c2343a7a",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777961293",
+      "title": "LAST100 _Introduction to Latin American Studies_ Trailer",
+      "shortDescription": "LAST100 _Introduction to Latin American Studies_ Trailer",
+      "thumbnail": "https://i.vimeocdn.com/video/1561331487-2776db03e2a96b85a0027d25752b451c9384729f68125f6d230a82cca66203be-d_800x450?region=us",
+      "releaseDate": "2022-12-04T22:34:07-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:24-05:00",
+        "duration": 54,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777961293.m3u8?s=4d9028a2866bae3f866dfbf70abd6893ddff12c8",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777892785",
+      "title": "Loggers Find Mysterious Caves In The Philippines Filled With Ancient Mummies Dating Back To 2,000 BC",
+      "shortDescription": "Loggers Find Mysterious Caves In The Philippines Filled With Ancient Mummies Dating Back To 2,000 BC",
+      "thumbnail": "https://i.vimeocdn.com/video/1561175874-a506e41e7a55eccbb5239b5d7258445997e60e290dbadb3695fea60d3265a89a-d_800x450?region=us",
+      "releaseDate": "2022-12-04T15:59:54-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:28-05:00",
+        "duration": 199,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777892785.m3u8?s=f86830ba9280fe57dfeb89342a4fd8f99857276a",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777962905",
+      "title": "Modernity and Modernization in Mexico (LAST100 wk 7)",
+      "shortDescription": "Modernity and Modernization in Mexico (LAST100 wk 7)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561338726-ed4d4c815e4f1890806c0846785994f30ccc418c3ce900739309cb8c41642649-d_800x450?region=us",
+      "releaseDate": "2022-12-04T22:44:11-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:29-05:00",
+        "duration": 745,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777962905.m3u8?s=76b8619dae553e65ecfd9937f965571ab4396fb3",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777892835",
+      "title": "Mormon war on Native Americans (Black Hawk War between Natives and Mormons)",
+      "shortDescription": "Mormon war on Native Americans (Black Hawk War between Natives and Mormons)",
+      "thumbnail": "https://i.vimeocdn.com/video/1700927909-42c425f020146008993018bdba134ec9c5b518f17d8a7197097da55bf2312e1c-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:00:10-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:30-05:00",
+        "duration": 1420,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777892835.m3u8?s=93fefbe4de25b758579ed9c11f1d1276276503c7",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777964983",
+      "title": "On Truth and Testimony",
+      "shortDescription": "On Truth and Testimony",
+      "thumbnail": "https://i.vimeocdn.com/video/1561341066-371ffaac9c19d80261d7c5836cf1639126f51050c2d8838dcf8b07a72686861b-d_800x450?region=us",
+      "releaseDate": "2022-12-04T22:58:02-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:32-05:00",
+        "duration": 595,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777964983.m3u8?s=c9d670ba9f4849fb1b36392f6cdb01b186801da1",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777892969",
+      "title": "Most Beautiful Island In Senegal(Goree Island)",
+      "shortDescription": "Most Beautiful Island In Senegal(Goree Island)",
+      "thumbnail": "https://i.vimeocdn.com/video/1700927793-56cb2f1f3605d6b3f55d679c86e7478ccd7d7b0e902af58997643bef692b5e00-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:00:50-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:31-05:00",
+        "duration": 608,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777892969.m3u8?s=ca6332ae6886997d6a4245861b569add3e7be705",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777965170",
+      "title": "Peru's Civil War",
+      "shortDescription": "Peru's Civil War",
+      "thumbnail": "https://i.vimeocdn.com/video/1561347377-32d64f6fba6e3a1417dbbbd4382b45e0f473dbfad582d848db06522e5c3bddbb-d_800x450?region=us",
+      "releaseDate": "2022-12-04T22:59:21-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:33-05:00",
+        "duration": 1166,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777965170.m3u8?s=77ffb0335e09069b1053e3833f4a39be667e4012",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777893130",
+      "title": "Pre-Islamic Arabia",
+      "shortDescription": "Pre-Islamic Arabia",
+      "thumbnail": "https://i.vimeocdn.com/video/1700927621-279a2ee10c88d064171b08f2417b184b6875bfdd4f84371b7a9fc3dd51025b15-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:01:44-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:38-05:00",
+        "duration": 1348,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777893130.m3u8?s=cd95920638bf11cac8e640ac62a90508e5dc7339",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777893706",
+      "title": "Pyramids in China But why are China trying to HIDE them",
+      "shortDescription": "Pyramids in China But why are China trying to HIDE them",
+      "thumbnail": "https://i.vimeocdn.com/video/1700927338-8c43f685ea95f9d6e6f720849f21a1f52db964ad75ec8eb7b3741ad54ca5ca61-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:04:30-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:39-05:00",
+        "duration": 305,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777893706.m3u8?s=8e966634a38c404a566280a0d08e1af2ee055a40",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777894972",
+      "title": "REVEALING AMERICAN DARK SKINNED PAST #Untold Indigenous Story #Arrow People - Part 1",
+      "shortDescription": "REVEALING AMERICAN DARK SKINNED PAST #Untold Indigenous Story #Arrow People - Part 1",
+      "thumbnail": "https://i.vimeocdn.com/video/1700927258-f63d1780d787678fa2546a837c2595ac7d366ed6160d78d3a6da72f197132a32-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:10:51-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:40-05:00",
+        "duration": 1639,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777894972.m3u8?s=dfa31ee49859a1405de6d85b28969588d90cb8fc",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777971576",
+      "title": "Santería_ Between Criminalization and Commodification",
+      "shortDescription": "Santería_ Between Criminalization and Commodification",
+      "thumbnail": "https://i.vimeocdn.com/video/1561357661-2b541f6af92a22ecfc743d3214efc605e93630d8928883489cccd57c90428d26-d_800x450?region=us",
+      "releaseDate": "2022-12-04T23:40:10-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:41-05:00",
+        "duration": 599,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777971576.m3u8?s=10f5f24cbc5e3344a1e35850faf7fca76fea1dc1",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777895453",
+      "title": "Slave Dungeons NOT Slave Castles",
+      "shortDescription": "Slave Dungeons NOT Slave Castles",
+      "thumbnail": "https://i.vimeocdn.com/video/1700927112-c8a84eef82de527387a436dc767b266d9fc0343493e488b817df0e48d12b1b19-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:13:12-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:42-05:00",
+        "duration": 726,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777895453.m3u8?s=c3648f34901088261f6e9122b64bf7c5a5c0154a",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777896977",
+      "title": "The Biggest & Oldest Slave Castle In West Africa",
+      "shortDescription": "The Biggest & Oldest Slave Castle In West Africa",
+      "thumbnail": "https://i.vimeocdn.com/video/1700926880-3930a660e831eee6678e053958c07da3cd89f7b9590598192da674294f3389ba-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:21:37-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:45-05:00",
+        "duration": 1143,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777896977.m3u8?s=156a8e4b635d923a7f79866772faa3d2ca52e47e",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777896760",
+      "title": "The Ainu dog is thought to be one of the oldest breeds of dog in the world",
+      "shortDescription": "The Ainu dog is thought to be one of the oldest breeds of dog in the world",
+      "thumbnail": "https://i.vimeocdn.com/video/1561184761-6178599d05975c601fc24d767227d45de438d340b478b6cda69e00669f869339-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:20:33-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:43-05:00",
+        "duration": 234,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777896760.m3u8?s=42aacee4b894ca26c9fe7f908173a3ced08c228f",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777898933",
+      "title": "The Curious History of Zanzibar and the Swahili Coast",
+      "shortDescription": "The Curious History of Zanzibar and the Swahili Coast",
+      "thumbnail": "https://i.vimeocdn.com/video/1700926730-28bfbd35bdcf81f6ec1413994a976b3fdcbc63542692eaed645148c4171b7f49-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:32:42-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:48-05:00",
+        "duration": 676,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777898933.m3u8?s=31546cb648c2fa8eb0ba22a6655177228150de0b",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777899197",
+      "title": "The Dead Sea Scrolls - Ancient History Documentary",
+      "shortDescription": "The Dead Sea Scrolls - Ancient History Documentary",
+      "thumbnail": "https://i.vimeocdn.com/video/1700926672-93fc8f28945c919a61ca376b89d7e08306fce9228dce7099252dc1e0126348c5-d_800x450?region=us",
+      "releaseDate": "2022-12-04T16:34:24-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:49-05:00",
+        "duration": 3433,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777899197.m3u8?s=48065cc4456f32b5f40dbf8901d8c587bf210dba",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777905159",
+      "title": "The Fukushima Daiichi Biggest Disaster In Japan History  Full Documentary",
+      "shortDescription": "The Fukushima Daiichi Biggest Disaster In Japan History  Full Documentary",
+      "thumbnail": "https://i.vimeocdn.com/video/1561205526-6fe29bd5ee82e57cfc04db017afd8be3084c33099547df0afc529b87e76e11b9-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:10:25-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:51-05:00",
+        "duration": 1830,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777905159.m3u8?s=0873e8806eb51650391f85d33af94547df7217ea",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777905691",
+      "title": "The Genes Of This Tribe Carry DNA Of A Third Unknown Human Species",
+      "shortDescription": "Is this true or will it later be proven they faked it like so many others?",
+      "thumbnail": "https://i.vimeocdn.com/video/1700926434-d2f48e12e2df8fbc1c992135279425214f988b151ff28803b6a630d24721a9c6-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:13:55-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:52-05:00",
+        "duration": 737,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777905691.m3u8?s=668eb835d8798dbed79ec22130d759c8333a1463",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777906315",
+      "title": "The History of African Women and their Hair by HomeTeam History   LAZY NATURALISTA",
+      "shortDescription": "The History of African Women and their Hair by HomeTeam History   LAZY NATURALISTA",
+      "thumbnail": "https://i.vimeocdn.com/video/1561207204-cd9a7f249e3be05e955662101b6b73602b650bd01f45acad540838981c59cb20-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:17:36-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:56-05:00",
+        "duration": 728,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777906315.m3u8?s=421e748a88e1ed85c688fe163f2b436ccf965d82",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777906169",
+      "title": "The History of Afghanistan Every Year",
+      "shortDescription": "The History of Afghanistan Every Year",
+      "thumbnail": "https://i.vimeocdn.com/video/1700926374-e1e5a0d7a10c955ca6805ecddd0820d3563ef531368ead0863bcb99485e64674-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:16:47-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:57-05:00",
+        "duration": 453,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777906169.m3u8?s=8cfde3399eaf1f4d3095c21d29ff4c10d6b9b832",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777906529",
+      "title": "THE HISTORY OF JAMAICAN FOOD (Jamaicas CUISINE history)",
+      "shortDescription": "THE HISTORY OF JAMAICAN FOOD (Jamaicas CUISINE history)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561207764-69bd1a8672378c73e2bfeed03712272762455554e927562682c049cc57682af4-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:18:46-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:40:58-05:00",
+        "duration": 687,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777906529.m3u8?s=c62bca482b4c57d8ba12e8174aa439ff7e837e0e",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777906766",
+      "title": "The History of North Asia Every Year",
+      "shortDescription": "The History of North Asia Every Year",
+      "thumbnail": "https://i.vimeocdn.com/video/1700926231-6284a87928b6a2d4ddaab0f153f36a502db0361b7e7a775dc6df1108a3c4c959-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:20:01-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:00-05:00",
+        "duration": 691,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777906766.m3u8?s=ec79200d8750f305b28216bef1d1955e18b5aea7",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "778150189",
+      "title": "The Legacy of US Interventionism in Latin America",
+      "shortDescription": "The Legacy of US Interventionism in Latin America",
+      "thumbnail": "https://i.vimeocdn.com/video/1561701185-50ca928f07c2c23f7912e3cb6029865cddcabe930aab024f33d80908e28787e5-d_800x450?region=us",
+      "releaseDate": "2022-12-05T10:50:32-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:01-05:00",
+        "duration": 867,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/778150189.m3u8?s=ba4fc7a006fb2d6b2213fda14e43a568a408c48d",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777907146",
+      "title": "The LAST BATH Of Our ANCESTORS (BIGGEST SLAVE MARKET)!",
+      "shortDescription": "The LAST BATH Of Our ANCESTORS (BIGGEST SLAVE MARKET)!",
+      "thumbnail": "https://i.vimeocdn.com/video/1700926133-4d6d20a396e63bfed72da3252507adde9f22f1eabb6cc3d258a435e74108cba1-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:22:12-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:02-05:00",
+        "duration": 1437,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777907146.m3u8?s=108dab3751d63c038b16c64203d515e0758c4794",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777907002",
+      "title": "The History of Paris Every Year",
+      "shortDescription": "The History of Paris Every Year",
+      "thumbnail": "https://i.vimeocdn.com/video/1700925974-b27a62d650454e5c45e7fe47a27d14c514d2a265e7d0e13422b3e8316c4cd3ed-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:21:20-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:04-05:00",
+        "duration": 490,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777907002.m3u8?s=84d0a22f8359f0b88a8ee4569e36d22167192913",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777909062",
+      "title": "The Lenni-Lenape Delaware People Algonquin - USA & Canada",
+      "shortDescription": "The Lenni-Lenape Delaware People Algonquin - USA & Canada",
+      "thumbnail": "https://i.vimeocdn.com/video/1700925881-22e6827a4424b66dbe207b4aed094f99d07416233816cbe1b065b15ada861c9a-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:32:58-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:05-05:00",
+        "duration": 2066,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777909062.m3u8?s=748cee0f80912c3a8d4e8f863c13df1ab01c5219",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "778150509",
+      "title": "The Limits of Popular Culture",
+      "shortDescription": "The Limits of Popular Culture",
+      "thumbnail": "https://i.vimeocdn.com/video/1561701276-5ebc569d92caf19a027587a0664ba2742e946600e83640709db005b20572dd15-d_800x450?region=us",
+      "releaseDate": "2022-12-05T10:51:28-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:07-05:00",
+        "duration": 1867,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/778150509.m3u8?s=7630c2f103de7b7705ff93af261e7f63fd91207d",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777909239",
+      "title": "The Mystery of the Dolmens of Ancient Korea",
+      "shortDescription": "The Mystery of the Dolmens of Ancient Korea",
+      "thumbnail": "https://i.vimeocdn.com/video/1561214983-c3b844be7a096032acff252a4d867ff2300905e54356ed1d488ac5fe9fc920c1-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:34:13-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:15-05:00",
+        "duration": 1392,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777909239.m3u8?s=bc86585f8fe8c6e2a0edcf459ec0d40c74250cf1",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777912491",
+      "title": "The People Of Southern Africa   Ancestry & Lineage",
+      "shortDescription": "The People Of Southern Africa   Ancestry & Lineage",
+      "thumbnail": "https://i.vimeocdn.com/video/1561222109-0bfda029e16f4e672e5296901cef14b42b4b3d3d73a3b38a2828a43127dd200d-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:54:51-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:18-05:00",
+        "duration": 430,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777912491.m3u8?s=daaa87f6c90e1d290c25ae775640fa64637dad7d",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777911931",
+      "title": "The Only Country In The World Formed By African American!",
+      "shortDescription": "The Only Country In The World Formed By African American!",
+      "thumbnail": "https://i.vimeocdn.com/video/1700925756-1140232bccb08459fec58ad2d635950c509e400509ebf7cd04a9e4230933e8f5-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:51:31-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:20-05:00",
+        "duration": 603,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777911931.m3u8?s=6e81d88d16ae566c6f30f32720ab8e99abbddc5d",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "778152107",
+      "title": "The Mexican Revolution (LAST100 wk 8)",
+      "shortDescription": "The Mexican Revolution (LAST100 wk 8)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561704373-b63e849d20419657bd835ff500f1b56d5f634cdd6ae3ffc5de2d81c33f8bbb45-d_800x450?region=us",
+      "releaseDate": "2022-12-05T10:55:48-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:22-05:00",
+        "duration": 841,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/778152107.m3u8?s=99fe1b8fcee263299a4d957d9a5bd20f391b45e3",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777912830",
+      "title": "The Sad Story Of The Kunta Kinte Family",
+      "shortDescription": "The Sad Story Of The Kunta Kinte Family",
+      "thumbnail": "https://i.vimeocdn.com/video/1700925644-7af48d987f95bba76897ae4d8436bb01e7bb302f773a590c770df65a647c5a7f-d_800x450?region=us",
+      "releaseDate": "2022-12-04T17:56:53-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:23-05:00",
+        "duration": 731,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777912830.m3u8?s=8a1a89cbd9a379ceff4adb2429aa6ce55cc7262f",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777913546",
+      "title": "The Slavery City Of Ghana-Cape Coast",
+      "shortDescription": "The Slavery City Of Ghana-Cape Coast",
+      "thumbnail": "https://i.vimeocdn.com/video/1561224651-5bf4d80a5283f2a9917a23fc3da0aa1dd8b05ad918c187a4b86f75769176929e-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:01:38-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:25-05:00",
+        "duration": 605,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777913546.m3u8?s=0acdf4a62c37cdc8805f51c3237bd63e1cd9efb6",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777918999",
+      "title": "The untold story of ARAB SLAVE TRADE  in East-Africa.",
+      "shortDescription": "The untold story of ARAB SLAVE TRADE  in East-Africa.",
+      "thumbnail": "https://i.vimeocdn.com/video/1561235964-7fe2e5955ec8c519a7eab0ea31df65f1843dfe169103fb181ba5bd08fddd57fd-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:31:49-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:26-05:00",
+        "duration": 734,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777918999.m3u8?s=f741ffc7e4210c48a2a6b45d9f908904dd1ea804",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777918774",
+      "title": "The True Roots Of Kunta Kinteh",
+      "shortDescription": "The True Roots Of Kunta Kinteh",
+      "thumbnail": "https://i.vimeocdn.com/video/1700925584-dbbed5076b64e0ae94bff02a65256449a94fd567e2cdde64db16f36e81ceb97c-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:30:28-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:28-05:00",
+        "duration": 847,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777918774.m3u8?s=2b25d1187f6c750377aecb16dfa8c41b919593c6",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "778152832",
+      "title": "The War on Drugs",
+      "shortDescription": "The War on Drugs",
+      "thumbnail": "https://i.vimeocdn.com/video/1561705244-d78e0052ac168c7196b0c73c93a1159a7ae456c8561f27a84861d1b25c394079-d_800x450?region=us",
+      "releaseDate": "2022-12-05T10:57:39-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:29-05:00",
+        "duration": 784,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/778152832.m3u8?s=2981b9e2e2351251e30d615b38ed8776908dbdbf",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777919177",
+      "title": "This Slave Trade History Will Make You Cry!",
+      "shortDescription": "History of slavery.",
+      "thumbnail": "https://i.vimeocdn.com/video/1564321437-8be62ac2c1fe3342cd7ff27d52ce618389f9ff9ece7caf9be3ddd01dcd842025-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:32:59-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:31-05:00",
+        "duration": 1123,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777919177.m3u8?s=0d4a7bb4690cf2c77689527457e10ce5f73c36b7",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "778153882",
+      "title": "Venezuela_ How We Got Here",
+      "shortDescription": "Venezuela_ How We Got Here",
+      "thumbnail": "https://i.vimeocdn.com/video/1561706588-dc440d3e57ff3ec62ea7ff5463f66ff683658410b5b97dd971c1c64a48e9c999-d_800x450?region=us",
+      "releaseDate": "2022-12-05T11:00:39-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:33-05:00",
+        "duration": 640,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/778153882.m3u8?s=016a6e806d8c7072a07f4a20cde0fdcf4dd26cfb",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777919288",
+      "title": "West African Kingdoms of Ghana, Mali & Songhay",
+      "shortDescription": "These kingdoms were mightier then given due.",
+      "thumbnail": "https://i.vimeocdn.com/video/1564321567-511b7d34df9d77e2f25773c2a1ac0041e7a664bbf902cf18df04c19ee2d3f826-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:33:39-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:34-05:00",
+        "duration": 1711,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777919288.m3u8?s=caae0af07398377c618bae1c33524436d88b2f76",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777919634",
+      "title": "Why Africa Is The Home For Every Black Person",
+      "shortDescription": "indepth look",
+      "thumbnail": "https://i.vimeocdn.com/video/1564322005-fd567c590202c831d81b749b80e8a3e25d3199261b7defefd65d8bc0d0825dd7-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:35:44-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:36-05:00",
+        "duration": 387,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777919634.m3u8?s=963bb87b04527e22bfb73e7631b977ec214637b0",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777919680",
+      "title": "Why Liberia Was Not Colonized",
+      "shortDescription": "This might surprise you.",
+      "thumbnail": "https://i.vimeocdn.com/video/1564322920-1ceacd20245b50798b610f3b1b6fccc697aa8ac4a142197efe2297a94d48a23a-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:36:01-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:38-05:00",
+        "duration": 430,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777919680.m3u8?s=d033362a1dca20111dc50d9c2eb173c1db4b07c2",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777919354",
+      "title": "Who Are the Samaritans",
+      "shortDescription": "Who Are the Samaritans",
+      "thumbnail": "https://i.vimeocdn.com/video/1700925463-66e5cebefad1fee6627e48e1e5e1fa10f140e0f7968313bdb16d31a0eb62d12c-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:34:03-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:40-05:00",
+        "duration": 1244,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777919354.m3u8?s=b70416d15e2432df0d7f8fc95b301405beae4ac7",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777919825",
+      "title": "Why No One Talks About This Great Ruins In Zimbabwe",
+      "shortDescription": "Why No One Talks About This Great Ruins In Zimbabwe",
+      "thumbnail": "https://i.vimeocdn.com/video/1561238970-7bbb3ce4b5868197920d34ed5f93b98dfa60723b1a7322ac99ab2a807f38d9e6-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:36:47-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:41-05:00",
+        "duration": 1537,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777919825.m3u8?s=565609f8e2087b021ddc530253270ab8034ead1c",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777933898",
+      "title": "Independence Narratives, Past and Present",
+      "shortDescription": "Independence Narratives, Past and Present",
+      "thumbnail": "https://i.vimeocdn.com/video/1561270459-157bd5dd1d958794b3992e617213fb58550ca1b2ea0e3241383543e3be3ff9fd-d_800x450?region=us",
+      "releaseDate": "2022-12-04T19:59:34-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:43-05:00",
+        "duration": 1065,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777933898.m3u8?s=526701d907291b223c01c156235b9877f3758b4a",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777888145",
+      "title": "“PYGMIES OF AFRICA” 1939 MBUTI PEOPLE   CENTRAL AFRICA    CONGO   PYGMY DOCUMENTARY",
+      "shortDescription": "This is historical footage taken of the African Pygmy tribe called the Mbuti in 1939.",
+      "thumbnail": "https://i.vimeocdn.com/video/1561165458-399ed6bf3b9d54b1eea0d60f8a75cbf44917e67e53ffe1e3e0046254f84dba8c-d_800x450?region=us",
+      "releaseDate": "2022-12-04T15:33:00-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:45-05:00",
+        "duration": 1207,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777888145.m3u8?s=1389e4f34f22bfab056be07e39c7631ed096d194",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920131",
+      "title": "The History of Argentina Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700925383-d17cdf3f9cc463c4f6022e6915a7333644c80b6ba667aa982451dfab17eef6c6-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:38:40-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:48-05:00",
+        "duration": 306,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920131.m3u8?s=200ad5dd9ff3360c1408a7d147d39079539f05f8",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920149",
+      "title": "The History of Brazil Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700925127-c474e1bb8c8be28a5a51c36809e32d6ee7d939bfd955a88df588edc18ecfbcc9-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:38:48-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:50-05:00",
+        "duration": 323,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920149.m3u8?s=6c97539b6bfa47f4d79a75c234b4be15cc215518",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920327",
+      "title": "The History of Cambodia Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700924829-9cce68873b74146f72e1f432383c0c1df428385baa7de39da9c9bad992506af2-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:40:02-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:52-05:00",
+        "duration": 429,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920327.m3u8?s=0735fe08993f0acdfca10aafc24a013710a08ad9",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920169",
+      "title": "The History of China Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1564320100-2284b804e9841d31ee35041d385f29bb5cdb5b001a45104d796aa0b91ca6c1e9-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:38:57-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:53-05:00",
+        "duration": 880,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920169.m3u8?s=1a927afb99fb3dbb725c03eec548a175228269f1",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920264",
+      "title": "The History of Japan Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1561239515-3f0ca24def94cf0df1911ce1f7d0d5bc1735be45cc9c9ef5558da7a0888c7554-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:39:33-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:55-05:00",
+        "duration": 526,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920264.m3u8?s=36b2fa0c53ae80be95fd1602f52ad59c6842b7b1",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920482",
+      "title": "The History of Kazakhstan Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700924785-ce766ce192bc8475c6a635e423ba91f3cf22e983330c2d12dda5754330fc14d2-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:40:53-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:57-05:00",
+        "duration": 434,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920482.m3u8?s=c1b125bdb6cead7161dae14df26f2520595434c6",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920248",
+      "title": "The History of France",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700930054-1787bf7a0bf6494c1c078a5a218bdc1aac8a9e7dffbb080be5975fb09250628d-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:39:27-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:41:59-05:00",
+        "duration": 233,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920248.m3u8?s=0152816e8550647c9cf08d9520b38e9b0b7d95a7",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920225",
+      "title": "The History of Egypt",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929972-8f7a224b48f077d3fffd38e523e1bb7823bde42603afd083b196f5cd123ab20d-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:39:21-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:01-05:00",
+        "duration": 328,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920225.m3u8?s=579f48ea38ff0480eea3c054bad7ee640f0e51eb",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920351",
+      "title": "The History of Korea Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929848-38dd20630705601177f580426c9d8ac637178b13c1b40f837d527962c834b93e-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:40:11-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:03-05:00",
+        "duration": 1239,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920351.m3u8?s=759c661a4dd0bd59c941d80efc869b68d0d78054",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920302",
+      "title": "The History of Kyrgyzstan Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929901-151c01e3c4137f4b2b880ad090314749a3840237efec246c7d6e1bb8c609aad6-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:39:50-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:05-05:00",
+        "duration": 496,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920302.m3u8?s=87e8451fd5901abcd798ee4576143ee194dddb5b",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920528",
+      "title": "The History of Laos Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929779-d360f11aa928b8739b7330e45cc9970affcd40229d34f52234540a9d65867ec5-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:41:05-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:06-05:00",
+        "duration": 242,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920528.m3u8?s=22a2456b20de3c19da7a1c8603318afa4f29421c",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920561",
+      "title": "The History of Myanmar Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1561240226-89728b75210d7896f12e241ebdd3b69ae84be64a343e451503fb7254534c1963-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:41:21-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:08-05:00",
+        "duration": 316,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920561.m3u8?s=dfee3dd66fbf473791cf4cc7cd4916adc1b9b270",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920647",
+      "title": "The History of the United States Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1564323656-a0afaf613d561ebfec9a277eaae3e499b38b3a616652d5487761120c8755e892-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:41:50-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:10-05:00",
+        "duration": 328,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920647.m3u8?s=d47c00e505c59b4f69558b42bb229c073d83f106",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920589",
+      "title": "The History of Thailand Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1564323294-b97236e7eed327aa7a9e6ed87c9806ffded2b1cf6f9e9d8e138e74cd996196e3-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:41:30-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:12-05:00",
+        "duration": 276,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920589.m3u8?s=ebae3195a995a47ce9967f03ee83bd93ba47dd36",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920614",
+      "title": "The History of Taiwan Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929653-44e17194ab8ff2fc8dbf5f25c35bb7cb6147f6477578e5cd958a24a8766a7c36-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:41:37-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:14-05:00",
+        "duration": 435,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920614.m3u8?s=4358cc63d856fa94f17d1438e4bcc9a9e1f99b8c",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920543",
+      "title": "The History of Sri Lanka Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929579-f58020a5c812799b5bbaea2ccc50b911db349a6da1d80ed58d2c485bde7ca758-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:41:12-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:16-05:00",
+        "duration": 446,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920543.m3u8?s=c57ebd43166537c05882163a7ac4c3064b98e5c3",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920680",
+      "title": "The History of Uzbekistan Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1564320928-2694ce4bdf8bd88feba0fcd2d423e4197184e8c0024babc12620c9d7d774e9f4-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:42:03-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:18-05:00",
+        "duration": 463,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920680.m3u8?s=fa81e562b1e77855b2b1582c781da7bd73069f00",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777920719",
+      "title": "The History of Vietnam Every Year",
+      "shortDescription": "Done with a map.",
+      "thumbnail": "https://i.vimeocdn.com/video/1564326582-1626a3b7baee07349a7fddd78b343e4241c536007467a865c719ceaa84c85e83-d_800x450?region=us",
+      "releaseDate": "2022-12-04T18:42:19-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:42:20-05:00",
+        "duration": 559,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777920719.m3u8?s=0ba146396e942fe03cf8a3c6fea7abea548e115d",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777935871",
+      "title": "Vijayanagara - The Last Emperors of South India",
+      "shortDescription": "Vijayanagara - The Last Emperors of South India",
+      "thumbnail": "https://i.vimeocdn.com/video/1561275885-7f27537dc6e31886f51bf9ea27a6823f29a1e354c9e55d0ff7dc700c608de45d-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:12:05-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:48:42-05:00",
+        "duration": 11638,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777935871.m3u8?s=415a6db71839cf86511589e8f651ba1ff223c628",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777935509",
+      "title": "The Greenland Vikings - Land of the Midnight Sun",
+      "shortDescription": "The Greenland Vikings - Land of the Midnight Sun",
+      "thumbnail": "https://i.vimeocdn.com/video/1561275132-fc94ec85f5818aa7abfdbffdefe6f20957112c7e3e807e41da6ed75e188eaa38-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:09:59-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:48:44-05:00",
+        "duration": 4922,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777935509.m3u8?s=1c64cf1ddb518181e16b594e5ed68102f85fefe1",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "777935601",
+      "title": "The Aztecs - A Clash of Worlds (Part 1 of 2)",
+      "shortDescription": "The Aztecs - A Clash of Worlds (Part 1 of 2)",
+      "thumbnail": "https://i.vimeocdn.com/video/1561275365-112938ee61e7090ebcc30141c38d09516d2caa776e6be21cd64067fccd7333f3-d_800x450?region=us",
+      "releaseDate": "2022-12-04T20:10:33-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:48:46-05:00",
+        "duration": 6267,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/777935601.m3u8?s=86903333377c82377400b31edb1f1f8dcc5b8ea1",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "778935641",
+      "title": "Age of Empires IV: Hands on History - The Trebuchet",
+      "shortDescription": "Age of Empires IV: Hands on History - The Trebuchet",
+      "thumbnail": "https://i.vimeocdn.com/video/1563268879-6a16009a18d2a5ce46b6dfca44fde11cb5111aec41d798a44daddef75c4c1c65-d_800x450?region=us",
+      "releaseDate": "2022-12-07T12:07:40-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:48:53-05:00",
+        "duration": 185,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/778935641.m3u8?s=cc0d8ea24e61721f5ce8cc4f920b8354e44bd4cd",
+            "quality": "UHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "778934906",
+      "title": "Acts of Rebellion_ Stamp Act and Townshend Acts with Patrick Henry and John Dickinson (revised)",
+      "shortDescription": "Acts of Rebellion_ Stamp Act and Townshend Acts with Patrick Henry and John Dickinson (revised)",
+      "thumbnail": "https://i.vimeocdn.com/video/1563265770-5cab4cb8a16f15470b2f894a3be4601ba01a2591495ffb33eda3ed4a1d790318-d_800x450?region=us",
+      "releaseDate": "2022-12-07T12:05:34-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:48:55-05:00",
+        "duration": 1094,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/778934906.m3u8?s=f7da19998012472b57eeefef2d9e44313274b45f",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "778938119",
+      "title": "Before the Boston Massacre_ Voices of Boston in Early March 1770 (revised)",
+      "shortDescription": "Before the Boston Massacre_ Voices of Boston in Early March 1770 (revised)",
+      "thumbnail": "https://i.vimeocdn.com/video/1563272442-5306729fa366dab92c3954a32cc13b63e6f34070146e0cca5233201e9d2b037b-d_800x450?region=us",
+      "releaseDate": "2022-12-07T12:14:38-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:48:57-05:00",
+        "duration": 1275,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/778938119.m3u8?s=8b1b9b713c904fc001935590996680acc2f8fb06",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779012200",
+      "title": "HANDS ON HISTORY - ARMOR",
+      "shortDescription": "HANDS ON HISTORY - ARMOR",
+      "thumbnail": "https://i.vimeocdn.com/video/1563409942-11f42c50a3dedd52957330fda98da9c519d86354ce10c463fee9e8830100ca8a-d_800x450?region=us",
+      "releaseDate": "2022-12-07T16:00:16-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:48:59-05:00",
+        "duration": 183,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779012200.m3u8?s=de1123b5192b0411d40d511b15c7ab13593f4ca3",
+            "quality": "UHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779013228",
+      "title": "HANDS ON HISTORY - FACE OF BATTLE",
+      "shortDescription": "HANDS ON HISTORY - FACE OF BATTLE",
+      "thumbnail": "https://i.vimeocdn.com/video/1563410118-5b2420b3d10b5536ef32ea897f4ec964224606ee87e38a3fdb31bb170f69fca2-d_800x450?region=us",
+      "releaseDate": "2022-12-07T16:02:57-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:02-05:00",
+        "duration": 199,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779013228.m3u8?s=cb06382aab9d5a7b240476b54929e14e132724a9",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779013370",
+      "title": "HANDS ON HISTORY - THE CROSSBOW",
+      "shortDescription": "HANDS ON HISTORY - THE CROSSBOW",
+      "thumbnail": "https://i.vimeocdn.com/video/1563410218-1cb7642b7e1e904f4db79080dc217197e1c9a894a1e4da522a0151abc806debb-d_800x450?region=us",
+      "releaseDate": "2022-12-07T16:03:21-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:04-05:00",
+        "duration": 176,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779013370.m3u8?s=0e5a39c3cba8a679045c14762f253a4a15c3523b",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779013727",
+      "title": "how to discover your dna and ethnicity for free",
+      "shortDescription": "how to discover your dna and ethnicity for free",
+      "thumbnail": "https://i.vimeocdn.com/video/1563410962-9ade68cfe539792c51575bc85a6872091956f8ecc02fefb85c7eaad4f08273d3-d_800x450?region=us",
+      "releaseDate": "2022-12-07T16:04:16-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:06-05:00",
+        "duration": 1689,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779013727.m3u8?s=a2565a8c8e4464ae2633872caddba81d143bc619",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779013603",
+      "title": "HANDS ON HISTORY - THE ILLUMINATED MANUSCRIPT",
+      "shortDescription": "HANDS ON HISTORY - THE ILLUMINATED MANUSCRIPT",
+      "thumbnail": "https://i.vimeocdn.com/video/1563410491-94d451ed820f1b5a4f798ca41904070e9608f4632216120b56b8fc4e6568176e-d_800x450?region=us",
+      "releaseDate": "2022-12-07T16:03:58-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:09-05:00",
+        "duration": 181,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779013603.m3u8?s=d3fd322392ed6272e5bd880e08b928b672b2661f",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779013495",
+      "title": "HANDS ON HISTORY - THE GARDEROBE",
+      "shortDescription": "HANDS ON HISTORY - THE GARDEROBE",
+      "thumbnail": "https://i.vimeocdn.com/video/1563410342-8c65d62f0c6fde0c3b99f3c8c6ccd813ecc4c6930d6259770de7302ea3e67511-d_800x450?region=us",
+      "releaseDate": "2022-12-07T16:03:40-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:11-05:00",
+        "duration": 165,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779013495.m3u8?s=3f525953bb725e63014f8b83203e8fe85016c440",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779047132",
+      "title": "Maine's History of Political Parties and Migrations Part 2",
+      "shortDescription": "Maine's History of Political Parties and Migrations Part 2",
+      "thumbnail": "https://i.vimeocdn.com/video/1563473586-0b422d6f80a3d510529f57b70b1e7d2a8e778b219cfc67164e4974b059bde7e0-d_800x450?region=us",
+      "releaseDate": "2022-12-07T17:51:34-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:14-05:00",
+        "duration": 273,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779047132.m3u8?s=ec0223fca1b00f42c75e4260f3cd753ef5c09b13",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779047165",
+      "title": "Maine's History of Political Parties and Migration- part 1",
+      "shortDescription": "Maine's History of Political Parties and Migration- part 1",
+      "thumbnail": "https://i.vimeocdn.com/video/1563473316-6061e6c18d111b5f7c7b4273b7cbd8b2f6feef1a8ed8667641f5d88b65075f6c-d_800x450?region=us",
+      "releaseDate": "2022-12-07T17:51:40-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:16-05:00",
+        "duration": 901,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779047165.m3u8?s=484bcd27613efe02fbf06b58a62a7963a8108798",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779376735",
+      "title": "The Boston Massacre Trial_ Thomas Gage and John Adams (revised)",
+      "shortDescription": "The Boston Massacre Trial_ Thomas Gage and John Adams (revised)",
+      "thumbnail": "https://i.vimeocdn.com/video/1564135266-b91c80e8b27d1c5d06545b744cc3690d6f3ea2f97badc491c20afdf33e35c8d4-d_800x450?region=us",
+      "releaseDate": "2022-12-08T15:10:14-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:21-05:00",
+        "duration": 1231,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779376735.m3u8?s=ad6e07c484e28c36c6b84f75472d55bc064a7e99",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "779377481",
+      "title": "The French and Indian War_ George Washington (revised)",
+      "shortDescription": "The French and Indian War_ George Washington (revised)",
+      "thumbnail": "https://i.vimeocdn.com/video/1564137123-729f977069f0cd9b79f160c6f488e8c8f631ef4dc36d2b85c64dfa6187a1b619-d_800x450?region=us",
+      "releaseDate": "2022-12-08T15:12:47-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2022-12-08T20:49:23-05:00",
+        "duration": 1146,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/779377481.m3u8?s=53ed1b39073616f25400a0300af827be1e483edc",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "789199404",
+      "title": "How To Be a Ninja - EPIC HOW TO",
+      "shortDescription": "How To Be a Ninja - EPIC HOW TO",
+      "thumbnail": "https://i.vimeocdn.com/video/1587247340-7c3fd69552432a1164a92cdfb6f244be005f4e431934ba9feb44924ae1dff9e5-d_800x450?region=us",
+      "releaseDate": "2023-01-13T22:39:13-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-01-14T22:25:58-05:00",
+        "duration": 370,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/789199404.m3u8?s=048df5385616b598d07e75a628ce5b3b428bda22",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "789199826",
+      "title": "History of America's Foreign Policy & how it compares to China John Mearsheimer",
+      "shortDescription": "Foreign policy lesson",
+      "thumbnail": "https://i.vimeocdn.com/video/1587249253-af439fe30122c8b109ca88f68dba7369335c1863401f22c1ad1cbff4bb8f563e-d_800x450?region=us",
+      "releaseDate": "2023-01-13T22:42:54-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-01-14T22:26:00-05:00",
+        "duration": 524,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/789199826.m3u8?s=fb24d24d7653b6c24c6f5aabe1843e975353c8ae",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "789199018",
+      "title": "Edward VIII - The Plot to Topple a King",
+      "shortDescription": "Edward VIII - The Plot to Topple a King",
+      "thumbnail": "https://i.vimeocdn.com/video/1587246425-016123aad6cdc6e910e142930356aac30a4ff68b746a9c1701b1083c57d8b3c6-d_800x450?region=us",
+      "releaseDate": "2023-01-13T22:35:23-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-01-14T22:26:03-05:00",
+        "duration": 2843,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/789199018.m3u8?s=b2fde3bc1095e97736370e6402519cdb62043014",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "789544050",
+      "title": "Catherine De Medici - The Black Queen of France Documentary",
+      "shortDescription": "Catherine De Medici - The Black Queen of France Documentary",
+      "thumbnail": "https://i.vimeocdn.com/video/1588291578-3e2216df3748b1791f6622a37decace9ab6f2631161f17b0200b4e9d66b47e10-d_800x450?region=us",
+      "releaseDate": "2023-01-15T18:40:47-05:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-01-29T18:22:52-05:00",
+        "duration": 4105,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/789544050.m3u8?s=c0bbcffb45f56027c9363e6f4160c8d9d06c9271",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "830325382",
+      "title": "Black Aristocrats of 18th Century England & France",
+      "shortDescription": "Black Aristocrats of 18th Century England & France",
+      "thumbnail": "https://i.vimeocdn.com/video/1675078256-dea621dc143ed7e103c6220950971cfe1414483239b02fce324d222771405147-d_800x450?region=us",
+      "releaseDate": "2023-05-25T15:16:08-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-03T20:38:28-04:00",
+        "duration": 1678,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/830325382.m3u8?s=7d71de8baf9a29a3eeb041267887028e93e2fea5",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "830325590",
+      "title": "Charlotte of Mecklenburg-Strelitz, Queen of Great Britain & Ireland",
+      "shortDescription": "Charlotte of Mecklenburg-Strelitz, Queen of Great Britain & Ireland",
+      "thumbnail": "https://i.vimeocdn.com/video/1675078676-12e8f045cf2c90d305306aad82ea62f1b6cd802b42b4f196250dc85770c20280-d_800x450?region=us",
+      "releaseDate": "2023-05-25T15:16:46-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-03T20:51:07-04:00",
+        "duration": 1679,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/830325590.m3u8?s=64f4f8d1acf1e9abc71dda2774598f3ff4157442",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "832895329",
+      "title": "Why the Victorians etiquette about dresses is so ridiculous   Fashion history myth busting",
+      "shortDescription": "Why the Victorians etiquette about dresses is so ridiculous   Fashion history myth busting",
+      "thumbnail": "https://i.vimeocdn.com/video/1678989843-8a06241a08865bbf1fb9b7db916f091187f378bf98a6a5a3085c62882491565a-d_800x450?region=us",
+      "releaseDate": "2023-06-03T10:48:41-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T01:07:58-04:00",
+        "duration": 743,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/832895329.m3u8?s=97e68fb9ebd1c1e92e2fbd5a26cfa7a915ed8b1c",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "832895315",
+      "title": "Why is South Ossetia Trying to Join Russia An overview of Georgia's Most Hated Region",
+      "shortDescription": "Why is South Ossetia Trying to Join Russia An overview of Georgia's Most Hated Region",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929400-266829c21b77f1eaac0650e57baf6b1c6adda7b7e3eb5bebb8adfda7b493286c-d_800x450?region=us",
+      "releaseDate": "2023-06-03T10:48:38-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T01:08:13-04:00",
+        "duration": 432,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/832895315.m3u8?s=885073825b93682b07f93675925310c26740930e",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "832895233",
+      "title": "The 10 Lost Tribes of Israel - Are They Really Lost",
+      "shortDescription": "The 10 Lost Tribes of Israel - Are They Really Lost",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929337-657386aa6d41b77604cfd3dc65ef4261c3b5671d69640aa47bac3c2783af7083-d_800x450?region=us",
+      "releaseDate": "2023-06-03T10:48:09-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T01:11:33-04:00",
+        "duration": 630,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/832895233.m3u8?s=46e9c075b30efe978bb773b62a64ab18e613203e",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "832895139",
+      "title": "Pakistan's Political Crisis (Islamabad Today)",
+      "shortDescription": "Pakistan's Political Crisis (Islamabad Today)",
+      "thumbnail": "https://i.vimeocdn.com/video/1700361766-d14fa08072a6ac98ff140e0763551e2039396b039e88c541777467b254bd5c43-d_800x450?region=us",
+      "releaseDate": "2023-06-03T10:47:35-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T01:11:56-04:00",
+        "duration": 1272,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/832895139.m3u8?s=3f33e8129ca8dab92f2a1a8778a6c5c19878dd27",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "832895248",
+      "title": "The History Behind the Rohingya Crisis",
+      "shortDescription": "The History Behind the Rohingya Crisis",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929125-ec0a639bf4c40815a2749332fa19a27f3ac70a88cf7543b157355031989f63c1-d_800x450?region=us",
+      "releaseDate": "2023-06-03T10:48:16-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T01:12:21-04:00",
+        "duration": 1710,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/832895248.m3u8?s=adc1ad5205a33e68f98a9e4cb672d35eef7ad5e4",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "832894979",
+      "title": "97% Of People Never Learned This Black History In School",
+      "shortDescription": "97% Of People Never Learned This Black History In School",
+      "thumbnail": "https://i.vimeocdn.com/video/1700929068-288a9ba8edd69a06bac10acc9cfde6ad9063047e9837aea8611e5350f660615c-d_800x450?region=us",
+      "releaseDate": "2023-06-03T10:46:30-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T01:17:24-04:00",
+        "duration": 467,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/832894979.m3u8?s=624e09442cf14d49c729b6c001a3c512fdb6f412",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "832895175",
+      "title": "Samurai Castles Evolution and Overview",
+      "shortDescription": "Samurai Castles Evolution and Overview",
+      "thumbnail": "https://i.vimeocdn.com/video/1700928908-3424d39e9880ed50a3c0b05ed2bcf426e89f867cb80ed2370aecd5bc337722b0-d_800x450?region=us",
+      "releaseDate": "2023-06-03T10:47:47-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T01:17:39-04:00",
+        "duration": 1231,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/832895175.m3u8?s=2700688a50808249344d7bf559aba34fb81e5bf8",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "832895052",
+      "title": "Classes, Ranks, and Titles of Feudal Japan [Kamakura and Muromachi Periods]",
+      "shortDescription": "Classes, Ranks, and Titles of Feudal Japan [Kamakura and Muromachi Periods]",
+      "thumbnail": "https://i.vimeocdn.com/video/1700930600-d2bb3021197bbca3e075060062974266b4ca0520614a6d841015d3925c3e8348-d_800x450?region=us",
+      "releaseDate": "2023-06-03T10:47:03-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T01:23:47-04:00",
+        "duration": 944,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/832895052.m3u8?s=ce3b9237054bf3c5bd6c77523e6b049c56512669",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "830336030",
+      "title": "How did medieval people wash their clothes- For once, the historical myths are medieval facts",
+      "shortDescription": "How did medieval people wash their clothes- For once, the historical myths are medieval facts",
+      "thumbnail": "https://i.vimeocdn.com/video/1675093876-c8ff34a0d51452e85e47167b2e82b500cdcb8f467809227c13199d23ee470918-d_800x450?region=us",
+      "releaseDate": "2023-05-25T15:50:27-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-05T20:36:39-04:00",
+        "duration": 1516,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/830336030.m3u8?s=b8e2c297d51c6c9fb23e33026dc48d4876843224",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "722172590",
+      "title": "Saint Patrick's Day History for Kids",
+      "shortDescription": "Do your kids want to know the origins and history of the holiday called St. Patrick's Day?",
+      "thumbnail": "https://i.vimeocdn.com/video/1700922070-78c9b3119750be9ba9e62dfad933aa84b581738b622a704fbdf41187ebf82d57-d_800x450?region=us",
+      "releaseDate": "2022-06-20T08:19:36-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-06-15T16:49:54-04:00",
+        "duration": 347,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/722172590.m3u8?s=8984db67ea18586a7f512c79013cd1959e68d9c0",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "880047881",
+      "title": "Top Natural History Moments by BBC Earth",
+      "shortDescription": "Top Natural History Moments by BBC Earth",
+      "thumbnail": "https://i.vimeocdn.com/video/1746852369-60c6c82192ab609e1cd1e78c5cd6a329750f708fedc57889e5e488a4763ab216-d_800x450?region=us",
+      "releaseDate": "2023-11-01T01:00:03-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-01T01:00:18-04:00",
+        "duration": 1751,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/880047881.m3u8?s=6baa4e9d7899ea7bc0079b167df3eac9e895775a",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "881061778",
+      "title": "Export Boom to Modernity",
+      "shortDescription": "Export Boom to Modernity",
+      "thumbnail": "https://i.vimeocdn.com/video/1748392164-d330beb4ef4b07f67e7821ce11efeaaa0e83e909b783c073910f4c95f793256d-d_800x450?region=us",
+      "releaseDate": "2023-11-03T19:19:06-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-03T19:19:23-04:00",
+        "duration": 1568,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/881061778.m3u8?s=9902286e69805ca0a5e6a9f02b914befa09d59fe",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "881065850",
+      "title": "The Inca- Cities in the Clouds",
+      "shortDescription": "The Inca- Cities in the Clouds",
+      "thumbnail": "https://i.vimeocdn.com/video/1748398888-bf25e5632705f84b89aaddcd80e36990a110c867b81d7ebd080671dc79a87c92-d_800x450?region=us",
+      "releaseDate": "2023-11-03T19:42:29-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-03T19:43:01-04:00",
+        "duration": 12186,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/881065850.m3u8?s=d497cab87f42dbc20acffe1fdde331f93e4fcb85",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "881069528",
+      "title": "The Meeting of Two Worlds Series Compilation",
+      "shortDescription": "Spaniards meet Amerindians.",
+      "thumbnail": "https://i.vimeocdn.com/video/1748404693-8195847523edfd2b30e2af3bb3fb4a28c937c6d46359deb587a1236acc4d93ba-d_800x450?region=us",
+      "releaseDate": "2023-11-03T20:06:29-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-03T20:06:42-04:00",
+        "duration": 3750,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/881069528.m3u8?s=167148a7af211747602ebe205fa345c92a902144",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "881071661",
+      "title": "Byzantium- Last of the Romans",
+      "shortDescription": "Byzantium- Last of the Romans",
+      "thumbnail": "https://i.vimeocdn.com/video/1748408601-908364b54e7616bbb718c617e449bc772b7af3454bed7e39f9756d8c2808b18f-d_800x450?region=us",
+      "releaseDate": "2023-11-03T20:22:16-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-03T20:22:48-04:00",
+        "duration": 12369,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/881071661.m3u8?s=76517c6730066b9ef24b7220bd88bda1437a7cc4",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "881077889",
+      "title": "Caudillos",
+      "shortDescription": "Caudillos",
+      "thumbnail": "https://i.vimeocdn.com/video/1748419428-a399098bd1219d720a6dd25aff1dc78b42c15a1e1ad120287747be6f12ba9665-d_800x450?region=us",
+      "releaseDate": "2023-11-03T21:06:56-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-03T21:07:14-04:00",
+        "duration": 2513,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/881077889.m3u8?s=ab1b8e48ca0040dc6b0c89706a74db4c6b2360c1",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "881080046",
+      "title": "Signs of a Crisis- A Gilded Age",
+      "shortDescription": "Signs of a Crisis- A Gilded Age",
+      "thumbnail": "https://i.vimeocdn.com/video/1748423341-e3370b9185c4b0f9187c900cabf94a1634dc7d441f788f5cd76a486204c4a133-d_800x450?region=us",
+      "releaseDate": "2023-11-03T21:25:41-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-03T21:25:58-04:00",
+        "duration": 2034,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/881080046.m3u8?s=15e1af38f65254f61d1d48e8949970120374dacb",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "722280387",
+      "title": "Does Queen Elizabeth have any Black, Jewish, or Muslim Ancestors",
+      "shortDescription": "Another exciting video for you to watch. Why don't you start watching to see what it's all about?",
+      "thumbnail": "https://i.vimeocdn.com/video/1454620369-a44390a7e61afc22f359f10ced3a3c35383c481c23ae0636333bacff5596c03f-d_800x450?region=us",
+      "releaseDate": "2022-06-20T13:43:32-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-04T00:47:27-04:00",
+        "duration": 992,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/722280387.m3u8?s=1b9e3c00547bcb65c6095f5ae4d9e1ccd1650737",
+            "quality": "FHD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "878931183",
+      "title": "JOSEPH (1995) Historical Movie",
+      "shortDescription": "JOSEPH (1995) Historical Movie",
+      "thumbnail": "https://i.vimeocdn.com/video/1745136784-4a40b340ce8c365155d65698a01a088584f30daaa9d63c5c0c258d4d0953d0b4-d_800x450?region=us",
+      "releaseDate": "2023-10-28T05:53:37-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2023-11-29T11:47:59-05:00",
+        "duration": 11113,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/878931183.m3u8?s=06d21b22d5a3b5c925aefbbb652b8ee2070c641b",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "929205168",
+      "title": "The Men Who Built America (Into the Wilderness) Frontiersmen (S1, E1)",
+      "shortDescription": "The Men Who Built America (Into the Wilderness) Frontiersmen (S1, E1)",
+      "thumbnail": "https://i.vimeocdn.com/video/1825053928-2657b4b48577e5cccdaf56741c92749255a1d12f0985dfc80ea544837e5c0f7b-d_800x450?region=us",
+      "releaseDate": "2024-03-30T23:22:20-04:00",
+      "genres": [
+        "history"
+      ],
+      "tags": [
+        "history"
+      ],
+      "content": {
+        "dateAdded": "2024-04-06T20:13:10-04:00",
+        "duration": 5007,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/929205168.m3u8?s=9c118a89db4affb2b479de5a87a72da3f1cc754c",
+            "quality": "HD",
+            "videoType": "HLS",
+            "bitrate": null
+          }
+        ]
+      }
+    }
+  ]
+}
